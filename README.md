@@ -1,3 +1,6 @@
+## Our VBCAR model have been integrated to the [Beta-Recsys](https://beta-recsys.readthedocs.io/en/latest/notes/models.html) framework.
+
+
 This repository contains the Python implementation for VBCAR. Further details about VBCAR can be found in our paper:
 
 ## Variational Bayesian Context-aware Representation for Grocery Recommendation
